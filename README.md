@@ -7,7 +7,7 @@
 Web scrapers, data APIs and AI-agent tools: built, deployed, monitored and priced per result.
 
 [![Apify Store](https://img.shields.io/badge/Apify_Store-30_Actors-97D700?style=for-the-badge&logo=apify&logoColor=white)](https://apify.com/murch1k)
-[![Scrapers Pack](https://img.shields.io/badge/Examples-Scrapers_Pack-181717?style=for-the-badge&logo=github)](https://github.com/murch1kbusiness-ux/apify-scrapers-pack)
+[![Scrapers Pack](https://img.shields.io/badge/Examples-Scrapers_Pack-181717?style=for-the-badge&logo=github)](https://github.com/3torix3/apify-scrapers-pack)
 [![Email](https://img.shields.io/badge/Work_with_me-murch1kbusiness%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murch1kbusiness@gmail.com)
 
 </div>
@@ -62,7 +62,7 @@ Web scrapers, data APIs and AI-agent tools: built, deployed, monitored and price
 </tr>
 </table>
 
-➡️ Copy-paste Python and Node.js examples for all of them: **[apify-scrapers-pack](https://github.com/murch1kbusiness-ux/apify-scrapers-pack)**
+➡️ Copy-paste Python and Node.js examples for all of them: **[apify-scrapers-pack](https://github.com/3torix3/apify-scrapers-pack)**
 
 ## How I build
 
